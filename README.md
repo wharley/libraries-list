@@ -6,7 +6,7 @@
 
 ### Para contribuir:
 
-- Manter a formatação como no modelo abaixo
+- Manter a formatação como no modelo abaixo 👇
 ```markdown
    # Framework
    [biblioteca](link) - Descrição
