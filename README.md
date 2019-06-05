@@ -1,6 +1,10 @@
-# Uma lista de bibliotecas mais usadas para frameworks front-end
+<p align="center">
+  <img src="assets/package.jpg"/>
+</p>
 
-![Package](/assets/package.jpg)
+# Libraries list
+
+📦 Uma lista de bibliotecas mais usadas para frameworks front-end
 
 > A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
 
