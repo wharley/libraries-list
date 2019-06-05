@@ -35,6 +35,7 @@
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) -  It is one of the AWS Amplify library packages, provide building blocks for React App development.
+-[react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
 
 # Angular
 - [aws-amplify-angular](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-angular) - It is one of the AWS Amplify library packages, provide building blocks for Angular App development
