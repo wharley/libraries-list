@@ -34,9 +34,18 @@
 - [react-powerplug](https://github.com/renatorib/react-powerplug) - 🔌 It is a set of pluggable renderless components and helpers that provides different types of state and logic utilities that you can use with your dumb components. It creates state and passes down the logic to the children, so you can handle your data.
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-system](https://styled-system.com/) - 💅 Style props for rapid UI development
 - [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) -  It is one of the AWS Amplify library packages, provide building blocks for React App development.
 - [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
+- [react-reveal](https://www.react-reveal.com) - ✨ React Reveal is an animation framework for React. 
+- [bloomer](https://bloomer.js.org/) - 💅 A set of React components for Bulma
+- [react-image-lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 🌆 Flexible lightbox component for displaying images with React
+- [react-keydown](https://glortho.github.io/react-keydown/) - 🎹 Lightweight keydown wrapper for React components
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - 📓 Catalog of React Components & Libraries
+- [react-leaflet](https://react-leaflet.js.org) - 🗺⚛️ React components for 🍃 Leaflet maps
+- [recharts](http://recharts.org/en-US/) - 📊 A composable charting library built on React components
+
 
 # Angular
 - [aws-amplify-angular](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-angular) - It is one of the AWS Amplify library packages, provide building blocks for Angular App development
