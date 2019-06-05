@@ -1,4 +1,4 @@
-# 📋 Uma lista de bibliotecas mais usada para frameworks front-end
+# 📋 Uma lista de bibliotecas mais usadas para frameworks front-end
 
 ![Package](/assets/package.jpg)
 
