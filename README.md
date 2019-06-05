@@ -22,6 +22,7 @@
 - [aws-amplify-vue](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-vue) - The aws-amplify-vue package is a set of Vue components which integrates your Vue application with the AWS-Amplify library.
 - [vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue.js 2
+- [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
 
 # React.js
 - [react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
