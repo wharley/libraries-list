@@ -4,6 +4,11 @@
 
 > A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
 
+### Para contribuir:
+- Manter a formatação como no modelo abaixo
+  - # Framework
+  - [biblioteca](link) - Descrição
+
 # Vue.js
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - A schema-based form generator component for Vue.js
 - [aws-amplify-vue](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-vue) - The aws-amplify-vue package is a set of Vue components which integrates your Vue application with the AWS-Amplify library.
