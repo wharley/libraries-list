@@ -5,9 +5,13 @@
 > A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
 
 ### Para contribuir:
+
 - Manter a formatação como no modelo abaixo
-  - # Framework
-  - [biblioteca](link) - Descrição
+```markdown
+   # Framework
+   [biblioteca](link) - Descrição
+```
+
 
 # Vue.js
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - A schema-based form generator component for Vue.js
