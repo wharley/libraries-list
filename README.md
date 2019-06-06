@@ -23,6 +23,8 @@
 - [vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue.js 2
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
+- [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify! -- datatable component for Vue 2.x.
+- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 
 # React.js
 - [react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
@@ -38,7 +40,7 @@
 - [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) -  It is one of the AWS Amplify library packages, provide building blocks for React App development.
 - [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
-- [react-reveal](https://www.react-reveal.com) - ✨ React Reveal is an animation framework for React. 
+- [react-reveal](https://www.react-reveal.com) - ✨ React Reveal is an animation framework for React.
 - [bloomer](https://bloomer.js.org/) - 💅 A set of React components for Bulma
 - [react-image-lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 🌆 Flexible lightbox component for displaying images with React
 - [react-keydown](https://glortho.github.io/react-keydown/) - 🎹 Lightweight keydown wrapper for React components
