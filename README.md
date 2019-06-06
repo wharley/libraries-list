@@ -44,7 +44,6 @@
 - [bloomer](https://bloomer.js.org/) - 💅 A set of React components for Bulma
 - [react-image-lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 🌆 Flexible lightbox component for displaying images with React
 - [react-keydown](https://glortho.github.io/react-keydown/) - 🎹 Lightweight keydown wrapper for React components
-- [awesome-react-components](https://github.com/brillout/awesome-react-components) - 📓 Catalog of React Components & Libraries
 - [react-leaflet](https://react-leaflet.js.org) - 🗺⚛️ React components for 🍃 Leaflet maps
 - [recharts](http://recharts.org/en-US/) - 📊 A composable charting library built on React components
 
