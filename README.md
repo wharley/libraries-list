@@ -6,7 +6,7 @@
 
 📦 Uma lista de bibliotecas mais usadas para frameworks front-end
 
-> A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
+> ⚠️ A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
 
 ### Para contribuir:
 
