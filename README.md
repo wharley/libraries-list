@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/package.jpg"/>
+  <img src="assets/package.png"/>
 </p>
 
 # Libraries list
