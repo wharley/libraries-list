@@ -46,7 +46,7 @@
 - [react-keydown](https://glortho.github.io/react-keydown/) - 🎹 Lightweight keydown wrapper for React components
 - [react-leaflet](https://react-leaflet.js.org) - 🗺⚛️ React components for 🍃 Leaflet maps
 - [recharts](http://recharts.org/en-US/) - 📊 A composable charting library built on React components
-
+- [Docz](https://www.docz.site/) - It's never been easier to document your things!
 
 # Angular
 - [aws-amplify-angular](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-angular) - It is one of the AWS Amplify library packages, provide building blocks for Angular App development
