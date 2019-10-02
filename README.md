@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/package.jpg"/>
+  <img src="assets/package.png"/>
 </p>
 
 # Libraries list
 
 📦 Uma lista de bibliotecas mais usadas para frameworks front-end
 
-> A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
+> ⚠️ A idéia é fazer um merge de todas as bibliotecas que fazem parte do nosso dia a dia 😉
 
 ### Para contribuir:
 
@@ -25,6 +25,8 @@
 - [vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue.js 2
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
+- [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify! -- datatable component for Vue 2.x.
+- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 
 # React.js
 
@@ -40,6 +42,18 @@
 - [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) - It is one of the AWS Amplify library packages, provide building blocks for React App development.
 - [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
 - [react-toastify](https://fkhadra.github.io/react-toastify/) - React notification made easy!
+- [styled-system](https://styled-system.com/) - 💅 Style props for rapid UI development
+- [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) -  It is one of the AWS Amplify library packages, provide building blocks for React App development.
+- [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
+- [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
+- [react-reveal](https://www.react-reveal.com) - ✨ React Reveal is an animation framework for React.
+- [bloomer](https://bloomer.js.org/) - 💅 A set of React components for Bulma
+- [react-image-lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 🌆 Flexible lightbox component for displaying images with React
+- [react-keydown](https://glortho.github.io/react-keydown/) - 🎹 Lightweight keydown wrapper for React components
+- [react-leaflet](https://react-leaflet.js.org) - 🗺⚛️ React components for 🍃 Leaflet maps
+- [recharts](http://recharts.org/en-US/) - 📊 A composable charting library built on React components
+- [Docz](https://www.docz.site/) - It's never been easier to document your things!
+- [material-ui](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 
 # Angular
 
