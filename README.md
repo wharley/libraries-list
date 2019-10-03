@@ -11,13 +11,15 @@
 ### Para contribuir:
 
 - Manter a formatação como no modelo abaixo 👇
+
 ```markdown
-   # Framework
-   [biblioteca](link) - Descrição
+# Framework
+
+[biblioteca](link) - Descrição
 ```
 
-
 # Vue.js
+
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - A schema-based form generator component for Vue.js
 - [aws-amplify-vue](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-vue) - The aws-amplify-vue package is a set of Vue components which integrates your Vue application with the AWS-Amplify library.
 - [vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
@@ -27,6 +29,7 @@
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 
 # React.js
+
 - [react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-dotdotdot](https://github.com/CezaryDanielNowak/React-dotdotdot) - Cross-browser multiline text ellipsis for react
@@ -37,7 +40,7 @@
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [styled-system](https://styled-system.com/) - 💅 Style props for rapid UI development
-- [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) -  It is one of the AWS Amplify library packages, provide building blocks for React App development.
+- [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) - It is one of the AWS Amplify library packages, provide building blocks for React App development.
 - [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [react-reveal](https://www.react-reveal.com) - ✨ React Reveal is an animation framework for React.
@@ -48,11 +51,14 @@
 - [recharts](http://recharts.org/en-US/) - 📊 A composable charting library built on React components
 - [Docz](https://www.docz.site/) - It's never been easier to document your things!
 - [material-ui](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+- [react-rating](https://github.com/dreyescat/react-rating) - ⭐️🤩 A rating star react component with custom symbols.
+- [x-state](https://github.com/davidkpiano/xstate) - 🚦🚥 State machines and statecharts for the modern web.
+- [formio](https://github.com/formio/formio.js) - 📑 JavaScript powered Forms with JSON Form Builder.
+- [react-swag](https://github.com/guisouza/react-swag) - 💎SWAG is a straightforward React state manager which sounds familiar for those who likes View-Model pattern.
 
 # Angular
+
 - [aws-amplify-angular](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-angular) - It is one of the AWS Amplify library packages, provide building blocks for Angular App development
-
-
 
 ## License
 
