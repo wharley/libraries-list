@@ -39,6 +39,9 @@
 - [react-powerplug](https://github.com/renatorib/react-powerplug) - 🔌 It is a set of pluggable renderless components and helpers that provides different types of state and logic utilities that you can use with your dumb components. It creates state and passes down the logic to the children, so you can handle your data.
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) - It is one of the AWS Amplify library packages, provide building blocks for React App development.
+- [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
+- [react-toastify](https://fkhadra.github.io/react-toastify/) - React notification made easy!
 - [styled-system](https://styled-system.com/) - 💅 Style props for rapid UI development
 - [aws-amplify-react](https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react) - It is one of the AWS Amplify library packages, provide building blocks for React App development.
 - [react-apollo](https://github.com/apollographql/react-apollo) - ♻️ React integration for Apollo Client
